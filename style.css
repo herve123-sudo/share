@@ -1,0 +1,121 @@
+body,
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #f4f4f4;
+    margin-bottom: 100px;
+    width: 900px;
+}
+
+.site_name {
+    cursor: pointer;
+    font-weight: 82vh;
+    margin-right: auto;
+    text-indent: 100px;
+}
+
+.img_fond {
+    position: absolute;
+    left   : 100vh;
+    width: 90vh;
+    height: auto;
+    top: 5vh;
+}
+
+.text_princip {
+    position: relative;
+    top: 20vh;
+    left: 25vh;
+    font-weight: bold;
+    font-size: 7vh;
+    line-height: 4vh;
+
+}
+
+.titre_principal{
+    color: rgb(168, 109, 0);
+}
+
+.text_princip p {
+    font-size: 4vh;
+    font-weight: normal;
+    max-width: 90vh;
+}
+
+.button_off{
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    align-self: center;
+    border-radius: 6vh;
+    width: 22vh;
+    height: 9.8vh;
+    top: 25vh;
+    left: 80vh;
+    background-image: url("images/IMAGE_OFF.png");
+}
+
+.button_on{
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    align-self: center;
+    border-radius: 6vh;
+    width: 22vh;
+    height: 9.8vh;
+    top: 25vh;
+    left: 75vh;
+    background-image: url("images/IMAGE_ON.png");
+}
+
+.container{
+    position: relative;
+    top: 29vh;
+    bottom: 0px;
+    background-color: 
+    height: 12vh;
+    width: 222vh;
+}
+
+#message{
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    top: 25vh;
+    left: 90vh;
+}
+
+ .l{
+  padding: 20px;
+   font-size: 20px;
+   font-weight: bold;
+   margin: 20px;
+   color: #fff;
+   background-color: #3399FF;
+   display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.oo{
+   position: relative;
+    top: 20vh;
+    left: 40vh;
+    font-weight: bold;
+    font-size: 7vh;
+    line-height: 4vh;
+ 
+}
+.ooo{
+  position: relative;
+    top: 20vh;
+    left: 35vh;
+    font-weight: bold;
+    font-size: 7vh;
+    line-height: 4vh; 
+}
+
+textarea{
+
+  background-color:#C0C0C0;
+}
